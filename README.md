@@ -119,32 +119,8 @@ Class: 04-01 | Issued: May 10, 2025
 Sensor-integrated ergonomic cleaning solution  
 LED illumination + embedded dust detection  
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vark278&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vark278&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vark278&theme=tokyonight" />
-</p>
-
----
-
-## 🧩 Fun Section – Dev Quote
-
-<p align="center">
-  <i>"Where product logic meets intelligent systems."</i>
-</p>
-
----
 
 ## 📫 Connect With Me
 
