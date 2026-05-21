@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varada</h1>
-<h3 align="center">Product + AI  | ML Engineer | Research & Design Innovator</h3>
+<h3 align="center">Product + AI  | Research & Design Innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Enthusiast;Product+Thinking+Meets+AI;IEEE+Published+Author;3x+Registered+Design+Holder;Building+Impactful+Systems&center=true&width=550&height=50">
